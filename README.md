@@ -27,15 +27,43 @@
 </p>
 
 ---
+<h2 align="center">Mis Habilidades</h2>
 
-<h2 align="center">My Skills</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Programming%20Languages-JavaScript%20%7C%20Java%20%7C%20Python-blue?style=for-the-badge" alt="Languages">
-  <img src="https://img.shields.io/badge/Frontend%20Development-HTML5%20%7C%20CSS%20%7C%20React%20%7C%20JavaScript-orange?style=for-the-badge" alt="Frontend">
-  <img src="https://img.shields.io/badge/Databases-SQL%20Server%20%7C%20MySQL-green?style=for-the-badge" alt="Databases">
-  <img src="https://img.shields.io/badge/Operating%20Systems-Linux%20%7C%20Ubuntu%20%7C%20Windows-lightgray?style=for-the-badge" alt="Operating Systems">
+<p>
+  <strong>Lenguaje de Programación:</strong> 
+  <img src="https://img.shields.io/badge/Programming%20Languages-JavaScript%20%7C%20Java%20%7C%20Python-blue?style=for-the-badge" alt="Lenguajes de Programación">
+</p>
+
+<p>
+  <strong>Desarrollo de Frontend:</strong>
+  <img src="https://img.shields.io/badge/Frontend%20Development-HTML5%20%7C%20CSS%20%7C%20React%20%7C%20JavaScript-orange?style=for-the-badge" alt="Desarrollo de Frontend">
+</p>
+
+<p>
+  <strong>Bases de Datos:</strong>
+  <img src="https://img.shields.io/badge/Databases-SQL%20Server%20%7C%20MySQL-green?style=for-the-badge" alt="Bases de Datos">
+</p>
+
+<p>
+  <strong>Sistema Operativo:</strong>
+  <img src="https://img.shields.io/badge/Operating%20Systems-Linux%20%7C%20Ubuntu%20%7C%20Windows-lightgray?style=for-the-badge" alt="Sistema Operativo">
+</p>
+
+<p>
+  <strong>Microsoft 365:</strong>
   <img src="https://img.shields.io/badge/Microsoft%20365-Word%20%7C%20PowerPoint%20%7C%20Excel%20%7C%20Outlook%20%7C%20Power%20BI%20Desktop-blue?style=for-the-badge" alt="Microsoft 365">
 </p>
+
+<p>
+  <strong>Control de Versiones:</strong>
+  <img src="https://img.shields.io/badge/Tools-GitHub-lightblue?style=for-the-badge" alt="GitHub">
+</p>
+
+<h3>Hobby</h3>
+<p>I enjoy playing football and spending time with my family on walks. It helps me relax and stay active.</p>
+
+<h3>Idioma</h3>
+<p>Inglés: Básico (Comprensión limitada)</p>
 
 <h3>Hobby</h3>
 <p>I enjoy playing football and spending time with my family on walks. It helps me relax and stay active.</p>
