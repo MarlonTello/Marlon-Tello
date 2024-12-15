@@ -15,7 +15,7 @@
 
 <h2 align="center">Sobre Mí</h2>
 <p style="text-align: justify;">
-• 🌟 Soy Marlon Tello, estudiante de Software y Sistemas, con experiencia en proyectos tecnológicos como sistemas de gestión hospitalaria y aplicaciones móviles para manejo de residuos sólidos.  
+• 🌟 Estudiante de Software y Sistemas, con experiencia en proyectos tecnológicos como sistemas de gestión hospitalaria y aplicaciones móviles para manejo de residuos sólidos.  
 <br>
 • 📚 Trabajo con metodologías ágiles como Scrum, destacándome en liderazgo, trabajo en equipo y resolución de problemas.  
 <br>
@@ -30,10 +30,19 @@
 
 <h2 align="center">My Skills</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Programming%20Languages-Python%20%7C%20C%2B%2B%20%7C%20JavaScript-blue?style=for-the-badge" alt="Languages">
-  <img src="https://img.shields.io/badge/Web%20Development-React%20%7C%20Angular%20%7C%20Node.js-orange?style=for-the-badge" alt="Web Dev">
-  <img src="https://img.shields.io/badge/Tools-Docker%20%7C%20Git%20%7C%20Linux%20%7C%20AWS-yellow?style=for-the-badge" alt="Tools">
+  <img src="https://img.shields.io/badge/Programming%20Languages-JavaScript%20%7C%20Java%20%7C%20Python-blue?style=for-the-badge" alt="Languages">
+  <img src="https://img.shields.io/badge/Frontend%20Development-HTML5%20%7C%20CSS%20%7C%20React%20%7C%20JavaScript-orange?style=for-the-badge" alt="Frontend">
+  <img src="https://img.shields.io/badge/Databases-SQL%20Server%20%7C%20MySQL-green?style=for-the-badge" alt="Databases">
+  <img src="https://img.shields.io/badge/Operating%20Systems-Linux%20%7C%20Ubuntu%20%7C%20Windows-lightgray?style=for-the-badge" alt="Operating Systems">
+  <img src="https://img.shields.io/badge/Microsoft%20365-Word%20%7C%20PowerPoint%20%7C%20Excel%20%7C%20Outlook%20%7C%20Power%20BI%20Desktop-blue?style=for-the-badge" alt="Microsoft 365">
 </p>
+
+<h3>Hobby</h3>
+<p>I enjoy playing football and spending time with my family on walks. It helps me relax and stay active.</p>
+
+<h3>Language Proficiency</h3>
+<p>English: Basic (Limited comprehension)</p>
+
 
 ---
 
