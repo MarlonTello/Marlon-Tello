@@ -29,36 +29,34 @@
 ---
 <h2 align="center">Mis Habilidades</h2>
 
-
-
 <p>
   <strong>Lenguaje de Programación:</strong> 
-  <img src="https://img.shields.io/badge/Programming%20Languages-JavaScript%20%7C%20Java%20%7C%20Python-blue?style=for-the-badge" alt="Lenguajes de Programación">
+  <img src="https://img.shields.io/badge/JavaScript%20%7C%20Java%20%7C%20Python-blue?style=for-the-badge" alt="Lenguajes de Programación">
 </p>
 
 <p>
   <strong>Desarrollo de Frontend:</strong>
-  <img src="https://img.shields.io/badge/Frontend%20Development-HTML5%20%7C%20CSS%20%7C%20React%20%7C%20JavaScript-orange?style=for-the-badge" alt="Desarrollo de Frontend">
+  <img src="https://img.shields.io/badge/HTML5%20%7C%20CSS%20%7C%20React%20%7C%20JavaScript-orange?style=for-the-badge" alt="Desarrollo de Frontend">
 </p>
 
 <p>
   <strong>Bases de Datos:</strong>
-  <img src="https://img.shields.io/badge/Databases-SQL%20Server%20%7C%20MySQL-green?style=for-the-badge" alt="Bases de Datos">
+  <img src="https://img.shields.io/badge/SQL%20Server%20%7C%20MySQL-green?style=for-the-badge" alt="Bases de Datos">
 </p>
 
 <p>
   <strong>Sistema Operativo:</strong>
-  <img src="https://img.shields.io/badge/Operating%20Systems-Linux%20%7C%20Ubuntu%20%7C%20Windows-lightgray?style=for-the-badge" alt="Sistema Operativo">
+  <img src="https://img.shields.io/badge/Linux%20%7C%20Ubuntu%20%7C%20Windows-lightgray?style=for-the-badge" alt="Sistema Operativo">
 </p>
 
 <p>
   <strong>Microsoft 365:</strong>
-  <img src="https://img.shields.io/badge/Microsoft%20365-Word%20%7C%20PowerPoint%20%7C%20Excel%20%7C%20Outlook%20%7C%20Power%20BI%20Desktop-blue?style=for-the-badge" alt="Microsoft 365">
+  <img src="https://img.shields.io/badge/Word%20%7C%20PowerPoint%20%7C%20Excel%20%7C%20Outlook%20%7C%20Power%20BI%20Desktop-blue?style=for-the-badge" alt="Microsoft 365">
 </p>
 
 <p>
   <strong>Control de Versiones:</strong>
-  <img src="https://img.shields.io/badge/Tools-GitHub-lightblue?style=for-the-badge" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-lightblue?style=for-the-badge" alt="GitHub">
 </p>
 
 <h3>Hobby</h3>
@@ -67,37 +65,6 @@
 <h3>Idioma</h3>
 <p>Inglés: Básico (Comprensión limitada)</p>
 
-
-
----
-
-<h2 align="center">Competitive Programming</h2>
-<p align="center">
-  <a href="https://codeforces.com/profile/ahmedhossam01">
-    <img src="https://img.shields.io/badge/Codeforces-Expert-red?style=for-the-badge" alt="Codeforces">
-  </a>
-  <a href="https://www.codechef.com/users/ahmedhossam01">
-    <img src="https://img.shields.io/badge/CodeChef-Division%201-blue?style=for-the-badge" alt="CodeChef">
-  </a>
-  <a href="https://leetcode.com/ahmedhossam01">
-    <img src="https://img.shields.io/badge/LeetCode-Top%205%25-orange?style=for-the-badge" alt="LeetCode">
-  </a>
-</p>
-
----
-
-<h2 align="center">Contact Me</h2>
-<p align="center">
-  <a href="mailto:ahmedhossam01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/ahmedhossam01">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/ahmedhossam01">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
 
 ---
 
