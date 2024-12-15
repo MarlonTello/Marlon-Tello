@@ -1,29 +1,29 @@
-<h1 align="center">Hi there 👋, I'm Ahmed Hossam</h1>
-<h3 align="center">A Computer Science Student | Software Engineer | Competitive Programmer</h3>
+<h1 align="center">Hola 👋, soy Marlon Tello</h1>
+<h3 align="center">Estudiante de Software y Sistemas</h3>
+
 
 <p align="center">
-  <a href="https://github.com/ahmedhossam01">
-    <img src="https://komarev.com/ghpvc/?username=ahmedhossam01&label=Profile%20views&color=129e00&style=plastic" alt="Profile views">
+  <a href="https://github.com/marlontello">
+    <img src="https://komarev.com/ghpvc/?username=marlontello&label=Profile%20views&color=129e00&style=plastic" alt="Profile views">
   </a>
-  <a href="https://github.com/ahmedhossam01">
-    <img src="https://img.shields.io/github/followers/ahmedhossam01?label=Followers&style=social" alt="Followers">
+  <a href="https://github.com/marlontello">
+    <img src="https://img.shields.io/github/followers/marlontello?label=Followers&style=social" alt="Followers">
   </a>
 </p>
 
 ---
 
-<h2 align="center">About Me</h2>
+<h2 align="center">Sobre Mí</h2>
 <p>
-• ✨ Enthusiastic <strong>Software Engineer</strong> with a passion for solving real-world problems.
+• 🌟 Soy <strong>Marlon Tello</strong>, estudiante de <strong>Software y Sistemas</strong>, con experiencia en proyectos de desarrollo tecnológico como sistemas de gestión hospitalaria y aplicaciones móviles para manejo de residuos sólidos.  
 <br>
-• 🌐 Currently pursuing a degree in <strong>Computer Science</strong>.
+• 📚 Trabajo con metodologías ágiles como <strong>Scrum</strong>, destacándome en liderazgo, trabajo en equipo y resolución de problemas.  
 <br>
-• 🏆 Experienced in <strong>Competitive Programming</strong>: 2x ACPC Finalist, Codeforces Expert, CodeChef Division 1.
+• ⚙️ Domino lenguajes como <strong>Python</strong> y <strong>JavaScript</strong>, además de frameworks como <strong>React</strong>, aplicando análisis funcional y estimación de recursos en proyectos complejos.  
 <br>
-• ⚙️ Skilled in Software Development, particularly using <strong>Python</strong>, <strong>JavaScript</strong>, <strong>C++</strong>, and frameworks like <strong>React</strong>.
-<br>
-• ✍️ Active Contributor to Open Source projects and passionate about sharing knowledge.
+• ✨ He desarrollado estrategias innovadoras, como soluciones digitales y planes de marketing, destacando en la optimización de procesos y experiencia de usuario.
 </p>
+
 
 ---
 
