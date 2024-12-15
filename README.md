@@ -29,7 +29,7 @@
 ---
 <h2 align="center">Mis Habilidades</h2>
 
-<h2 align="center">Mis Habilidades</h2>
+
 
 <p>
   <strong>Lenguaje de Programación:</strong> 
