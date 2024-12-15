@@ -29,6 +29,8 @@
 ---
 <h2 align="center">Mis Habilidades</h2>
 
+<h2 align="center">Mis Habilidades</h2>
+
 <p>
   <strong>Lenguaje de Programación:</strong> 
   <img src="https://img.shields.io/badge/Programming%20Languages-JavaScript%20%7C%20Java%20%7C%20Python-blue?style=for-the-badge" alt="Lenguajes de Programación">
@@ -65,11 +67,6 @@
 <h3>Idioma</h3>
 <p>Inglés: Básico (Comprensión limitada)</p>
 
-<h3>Hobby</h3>
-<p>I enjoy playing football and spending time with my family on walks. It helps me relax and stay active.</p>
-
-<h3>Language Proficiency</h3>
-<p>English: Basic (Limited comprehension)</p>
 
 
 ---
