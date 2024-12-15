@@ -14,7 +14,7 @@
 ---
 
 <h2 align="center">Sobre Mí</h2>
-<p>
+<p style="text-align: justify;">
 • 🌟 Soy <strong>Marlon Tello</strong>, estudiante de <strong>Software y Sistemas</strong>, con experiencia en proyectos de desarrollo tecnológico como sistemas de gestión hospitalaria y aplicaciones móviles para manejo de residuos sólidos.  
 <br>
 • 📚 Trabajo con metodologías ágiles como <strong>Scrum</strong>, destacándome en liderazgo, trabajo en equipo y resolución de problemas.  
