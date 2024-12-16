@@ -70,37 +70,25 @@
 
 
 ---
-
 <h2 align="center">Quick Links</h2>
 <p align="center">
   <!-- Botón para descargar el Currículum -->
   <a href="URL_DE_TU_CURRICULUM" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Currículum-Descargar-blue?style=for-the-badge&logo=readme" alt="Currículum" class="button">
+    <button class="button" style="background-color: blue; color: white;">Currículum</button>
   </a>
   <!-- Botón para Facebook -->
   <a href="https://www.facebook.com/profile.php?id=100013582839452" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Facebook-Visitar-blue?style=for-the-badge&logo=facebook" alt="Facebook" class="button">
+    <button class="button" style="background-color: #3b5998; color: white;">Facebook</button>
   </a>
   <!-- Botón para WhatsApp -->
   <a href="https://wa.me/56932239061" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/WhatsApp-Mensaje-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp" class="button">
+    <button class="button" style="background-color: #25D366; color: white;">WhatsApp</button>
   </a>
   <!-- Botón para Instagram -->
   <a href="https://www.instagram.com/marlon.telloo/?hl=es" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-Visitar-pink?style=for-the-badge&logo=instagram" alt="Instagram" class="button">
+    <button class="button" style="background-color: #E1306C; color: white;">Instagram</button>
   </a>
 </p>
-
-<style>
-.button {
-  transition: transform 0.3s ease;
-}
-
-.button:hover {
-  transform: scale(1.1);
-}
-</style>
-
 
 ---
 
