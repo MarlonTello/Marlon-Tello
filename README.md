@@ -15,7 +15,7 @@
 
 <h2 align="center">Sobre Mí</h2>
 <p style="text-align: justify;">
-Soy estudiante de último año de **Ingeniería de Sistemas** 👨‍💻, con **21 años** 🎓, y me especializo en el **desarrollo de soluciones tecnológicas** 💡 para optimizar sistemas de gestión en sectores como **salud** 🏥 y **sostenibilidad** 🌍. Utilizo **metodologías ágiles** ⚙️ y **tecnologías móviles** 📱, como **Python**, **JavaScript** y **React** 💻, garantizando **calidad en el código** ✅ mediante **análisis funcional** 📊 y **estimación de recursos** 💼. Busco aplicar mis habilidades en un **entorno desafiante** 🔍, seguir **creciendo profesionalmente** 📈 y contribuir al **éxito de la empresa** 🏆.
+Soy estudiante de último año de **Ingeniería de Sistemas** 👨‍💻, con 21 años 🎓, y me especializo en el desarrollo de soluciones tecnológicas 💡 para optimizar sistemas de gestión en sectores como salud 🏥 y sostenibilidad 🌍. Utilizo metodologías ágiles ⚙️ y tecnologías móviles📱, como Python, JavaScript y React 💻, garantizando calidad en el código ✅ mediante análisis funcional 📊 y estimación de recursos 💼. Busco aplicar mis habilidades en un entorno desafiante 🔍, seguir creciendo profesionalmente 📈 y contribuir al éxito de la empresa 🏆.
 
 ---
 <h2 align="center">Mis Habilidades</h2>
