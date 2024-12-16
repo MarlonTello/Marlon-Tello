@@ -158,11 +158,12 @@ Soy estudiante de último año de Ingeniería de Sistemas 👨‍💻, con 21 a�
 
 <h2 align="center" style="font-family: 'Arial', sans-serif; font-size: 28px; color: #4CAF50;">📊 Estadísticas de Mi Perfil en GitHub</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarlonTello&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" style="border: 3px solid #4CAF50; border-radius: 15px; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarlonTello&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" style="border: 3px solid #4CAF50; border-radius: 15px; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);">
 </p>
 <p align="center" style="font-family: 'Arial', sans-serif; font-size: 18px; color: #333; margin-top: 20px;">
-  <strong>¡Contribuciones diarias y progreso continuo! 🚀</strong>
+  <strong>¡Contribuciones diarias, repositorios privados y progreso continuo! 🚀</strong>
 </p>
+
 
 ---
 
