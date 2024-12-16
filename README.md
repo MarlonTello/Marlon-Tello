@@ -155,11 +155,10 @@ Soy estudiante de último año de Ingeniería de Sistemas 👨‍💻, con 21 a�
 </p>
 
 ---
-
 <h2 align="center" style="font-family: 'Arial', sans-serif; font-size: 28px; color: #4CAF50;">🏆 Mis Logros y Repositorios en GitHub</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarlonTello&theme=gruvbox&row=1&column=5" alt="GitHub Trophy" style="border: 3px solid #4CAF50; border-radius: 15px; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);">
+  <img src="https://github-profile-trophy.vercel.app/?username=MarlonTello&theme=gruvbox&row=1&column=5" alt="Trofeos de GitHub" style="border: 3px solid #4CAF50; border-radius: 15px; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);">
 </p>
 
 <p align="center" style="font-family: 'Arial', sans-serif; font-size: 18px; color: #333; margin-top: 20px;">
@@ -168,13 +167,12 @@ Soy estudiante de último año de Ingeniería de Sistemas 👨‍💻, con 21 a�
 
 <h2 align="center" style="font-family: 'Arial', sans-serif; font-size: 28px; color: #4CAF50;">📊 Estadísticas de Mi Perfil en GitHub</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarlonTello&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" style="border: 3px solid #4CAF50; border-radius: 15px; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarlonTello&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Estadísticas de GitHub" style="border: 3px solid #4CAF50; border-radius: 15px; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);">
 </p>
 
 <p align="center" style="font-family: 'Arial', sans-serif; font-size: 18px; color: #333; margin-top: 20px;">
   <strong>¡Contribuciones diarias, repositorios privados y progreso continuo! 🚀</strong>
 </p>
-
 
 
 
