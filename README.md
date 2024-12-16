@@ -15,17 +15,14 @@
 
 <h2 align="center">Sobre Mí</h2>
 <p style="text-align: justify;">
-• 🌟 Estudiante de Software y Sistemas, con experiencia en proyectos tecnológicos como sistemas de gestión hospitalaria y aplicaciones móviles para manejo de residuos sólidos.  
+🌟 Desarrollar soluciones tecnológicas innovadoras para la creación de sistemas de gestión eficientes en diversas áreas, como la salud y la sostenibilidad, aplicando metodologías ágiles y tecnologías móviles para optimizar procesos y mejorar la experiencia del usuario.
+📚 Experto en metodologías ágiles , especialmente Scrum , con enfoque en liderazgo , trabajo en equipo y resolución de problemas complejos .
 <br>
-• 📚 Trabajo con metodologías ágiles como Scrum, destacándome en liderazgo, trabajo en equipo y resolución de problemas.  
+⚙️ Dominio de lenguajes de programación como Python y JavaScript , así como de frameworks como React , con sólida experiencia en análisis funcional y estimación de recursos en proyectos tecnológicos.
 <br>
-• ⚙️ Domino lenguajes como Python y JavaScript, además de frameworks como React, aplicando análisis funcional y estimación de recursos en proyectos complejos.  
+💾 Conocimientos avanzados en bases de datos SQL y MySQL , optimizando su gestión y rendimiento para garantizar eficiencia y escalabilidad en soluciones tecnológicas.
 <br>
-• 💾 Tengo conocimientos sólidos en bases de datos SQL y MySQL, gestionando y optimizando bases de datos para asegurar su eficiencia y rendimiento.  
-<br>
-• ✨ He desarrollado estrategias innovadoras, como soluciones digitales y planes de marketing, destacando en la optimización de procesos y experiencia de usuario.
-</p>
-
+✨ Desarrollo de estrategias digitales innovadoras y planos de marketing , enfocándome en la optimización de procesos y en la mejora de la experiencia del usuario a través de soluciones creativas.
 ---
 <h2 align="center">Mis Habilidades</h2>
 
