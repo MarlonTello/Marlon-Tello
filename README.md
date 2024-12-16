@@ -109,38 +109,7 @@
   </a>
 </p>
 
-<!-- Desarrollo Backend -->
-<h4 align="left">Backend Development:</h4>
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-</p>
-
-<!-- Sistema Operativo -->
-<h4 align="left">Operating Systems:</h4>
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-</p>
-
-<!-- Control de Versiones -->
-<h4 align="left">Version Control:</h4>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-</p>
-
-<!-- Herramientas de Productividad -->
-<h4 align="left">Productivity Tools:</h4>
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_Office_365_logo.png" alt="Microsoft 365" width="40" height="40" />
-  </a>
-</p>
-
+--
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
