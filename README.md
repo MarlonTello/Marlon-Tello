@@ -140,21 +140,6 @@ Soy estudiante de último año de Ingeniería de Sistemas 👨‍💻, con 21 a�
 </p
 
 ---
-
-<h2 align="center">
-  ¡Gracias por tu interés! 🚀
-</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" alt="Motivational Goodbye GIF">
-</p>
-<p align="center" style="font-size: 18px; color: #555;">
-  <strong>¡Gracias por visitarme!</strong> Estoy comprometido a aportar creatividad, pasión y soluciones innovadoras a cada proyecto. 💡 Si buscas un profesional con disciplina, motivación y ganas de crecer, ¡hablemos! 💼
-</p>
-<p align="center">
-  <em>Espero que este sea el comienzo de una gran colaboración. 🌟 ¡Hasta pronto!</em>
-</p>
-
----
 <h2 align="center" style="font-family: 'Arial', sans-serif; font-size: 28px; color: #4CAF50;">🏆 Mis Trofeos y Repositorios en GitHub</h2>
 
 <p align="center">
@@ -172,6 +157,21 @@ Soy estudiante de último año de Ingeniería de Sistemas 👨‍💻, con 21 a�
 
 <p align="center" style="font-family: 'Arial', sans-serif; font-size: 18px; color: #333; margin-top: 20px;">
   <strong>¡Contribuciones diarias, repositorios privados y progreso continuo! 🚀</strong>
+</p>
+
+---
+
+<h2 align="center">
+  ¡Gracias por tu interés! 🚀
+</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" alt="Motivational Goodbye GIF">
+</p>
+<p align="center" style="font-size: 18px; color: #555;">
+  <strong>¡Gracias por visitarme!</strong> Estoy comprometido a aportar creatividad, pasión y soluciones innovadoras a cada proyecto. 💡 Si buscas un profesional con disciplina, motivación y ganas de crecer, ¡hablemos! 💼
+</p>
+<p align="center">
+  <em>Espero que este sea el comienzo de una gran colaboración. 🌟 ¡Hasta pronto!</em>
 </p>
 
 
