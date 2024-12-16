@@ -16,13 +16,18 @@
 <h2 align="center">Sobre Mí</h2>
 <p style="text-align: justify;">
 🌟 Desarrollar soluciones tecnológicas innovadoras para la creación de sistemas de gestión eficientes en diversas áreas, como la salud y la sostenibilidad, aplicando metodologías ágiles y tecnologías móviles para optimizar procesos y mejorar la experiencia del usuario.
-📚 Experto en metodologías ágiles , especialmente Scrum , con enfoque en liderazgo , trabajo en equipo y resolución de problemas complejos .
+
 <br>
-⚙️ Dominio de lenguajes de programación como Python y JavaScript , así como de frameworks como React , con sólida experiencia en análisis funcional y estimación de recursos en proyectos tecnológicos.
+📚 Liderar equipos multidisciplinarios aplicando metodologías ágiles como Scrum , destacando en gestión de proyectos , resolución de problemas complejos y fomentando un ambiente de colaboración para alcanzar los objetivos establecidos de manera eficiente.
+
 <br>
-💾 Conocimientos avanzados en bases de datos SQL y MySQL , optimizando su gestión y rendimiento para garantizar eficiencia y escalabilidad en soluciones tecnológicas.
+⚙️ Desarrollar con lenguajes como Python y JavaScript y frameworks como React , aplicando análisis funcional , estimación de recursos y desarrollo de software en proyectos de alta complejidad, asegurando la calidad del código y su correcta implementación.
+
 <br>
-✨ Desarrollo de estrategias digitales innovadoras y planos de marketing , enfocándome en la optimización de procesos y en la mejora de la experiencia del usuario a través de soluciones creativas.
+💾 Gestionar bases de datos SQL y MySQL , optimizando su rendimiento mediante el diseño de estructuras eficientes y la implementación de buenas prácticas para garantizar la escalabilidad y disponibilidad de la información en aplicaciones de gran tamaño.
+
+<br>
+✨ Crear estrategias digitales innovadoras y planos de marketing , con un enfoque en la optimización de procesos , automatización y en la mejora de la experiencia del usuario , a través de soluciones tecnológicas que generan valor agregado y eficiencia operativa.
 ---
 <h2 align="center">Mis Habilidades</h2>
 
