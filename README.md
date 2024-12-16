@@ -15,7 +15,7 @@
 
 <h2 align="center">Sobre Mí</h2>
 <p style="text-align: justify;">
-Soy estudiante de último año de **Ingeniería de Sistemas** 👨‍💻, con 21 años 🎓, y me especializo en el desarrollo de soluciones tecnológicas 💡 para optimizar sistemas de gestión en sectores como salud 🏥 y sostenibilidad 🌍. Utilizo metodologías ágiles ⚙️ y tecnologías móviles📱, como Python, JavaScript y React 💻, garantizando calidad en el código ✅ mediante análisis funcional 📊 y estimación de recursos 💼. Busco aplicar mis habilidades en un entorno desafiante 🔍, seguir creciendo profesionalmente 📈 y contribuir al éxito de la empresa 🏆.
+Soy estudiante de último año de Ingeniería de Sistemas 👨‍💻, con 21 años 🎓, y me especializo en el desarrollo de soluciones tecnológicas 💡 para optimizar sistemas de gestión en sectores como salud 🏥 y sostenibilidad 🌍. Utilizo metodologías ágiles ⚙️ y tecnologías móviles📱, como Python, JavaScript y React 💻, garantizando calidad en el código ✅ mediante análisis funcional 📊 y estimación de recursos 💼. Busco aplicar mis habilidades en un entorno desafiante 🔍, seguir creciendo profesionalmente 📈 y contribuir al éxito de la empresa 🏆.
 
 ---
 <h2 align="center">Mis Habilidades</h2>
@@ -154,13 +154,17 @@ Soy estudiante de último año de **Ingeniería de Sistemas** 👨‍💻, con 2
   <em>Espero que este sea el comienzo de una gran colaboración. 🌟 ¡Hasta pronto!</em>
 </p>
 
+---
 
-	
-<h2 align="center">📊 Mis Estadísticas</h2>
+<h2 align="center" style="font-family: 'Arial', sans-serif; font-size: 28px; color: #4CAF50;">🚀 Mi Impacto y Progreso Profesional</h2>
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" style="border: 2px solid #555; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" style="border: 3px solid #4CAF50; border-radius: 15px; box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;">
 </p>
-<p align="center" style="font-size: 16px; color: #555; margin-top: 15px;">
-  <strong>Contribuciones activas y resultados visibles. 🚀</strong>
+<p align="center" style="font-family: 'Arial', sans-serif; font-size: 18px; color: #333; margin-top: 20px;">
+  <strong>¡Mis contribuciones reflejan mi dedicación y crecimiento continuo! 🌟</strong>
 </p>
+
+
+
+ 
 
