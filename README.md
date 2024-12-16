@@ -106,14 +106,4 @@
 
 
 	
-<h2 align="center">🐍 A Dynamic Contribution Journey</h2>
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" style="border: 2px solid #555; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);">
-</p>
-<p align="center" style="font-size: 18px; color: #555; margin-top: 20px;">
-  <strong>¡Observa cómo mis contribuciones cobran vida! 🐍</strong> Este gráfico representa mi compromiso constante y pasión por el desarrollo. Cada "comida" del snake simboliza una entrega exitosa o un aprendizaje nuevo. 💡
-</p>
-<p align="center">
-  <em>¿Quieres que este nivel de dedicación esté en tu próximo proyecto? ¡Hablemos! 💼</em>
-</p>
-
+🐍 Un viaje de contribución dinámico
