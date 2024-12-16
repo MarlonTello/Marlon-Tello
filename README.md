@@ -70,25 +70,75 @@
 
 
 ---
-<h2 align="center">Quick Links</h2>
-<p align="center">
-  <!-- Botón para descargar el Currículum -->
-  <a href="URL_DE_TU_CURRICULUM" target="_blank" style="text-decoration: none;">
-    <button class="button" style="background-color: blue; color: white;">Currículum</button>
-  </a>
-  <!-- Botón para Facebook -->
-  <a href="https://www.facebook.com/profile.php?id=100013582839452" target="_blank" style="text-decoration: none;">
-    <button class="button" style="background-color: #3b5998; color: white;">Facebook</button>
-  </a>
-  <!-- Botón para WhatsApp -->
-  <a href="https://wa.me/56932239061" target="_blank" style="text-decoration: none;">
-    <button class="button" style="background-color: #25D366; color: white;">WhatsApp</button>
-  </a>
-  <!-- Botón para Instagram -->
-  <a href="https://www.instagram.com/marlon.telloo/?hl=es" target="_blank" style="text-decoration: none;">
-    <button class="button" style="background-color: #E1306C; color: white;">Instagram</button>
-  </a>
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quick Links</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+    .container {
+      display: flex;
+      gap: 20px;
+    }
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      font-size: 16px;
+      font-weight: bold;
+      text-align: center;
+      text-decoration: none;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .button:hover {
+      transform: scale(1.1);
+      box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+    }
+
+    .curriculum {
+      background-color: blue;
+    }
+    .facebook {
+      background-color: #3b5998;
+    }
+    .whatsapp {
+      background-color: #25D366;
+    }
+    .instagram {
+      background-color: #E1306C;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Botón para descargar el Currículum -->
+    <a href="URL_DE_TU_CURRICULUM" target="_blank" class="button curriculum">Currículum</a>
+
+    <!-- Botón para Facebook -->
+    <a href="https://www.facebook.com/profile.php?id=100013582839452" target="_blank" class="button facebook">Facebook</a>
+
+    <!-- Botón para WhatsApp -->
+    <a href="https://wa.me/56932239061" target="_blank" class="button whatsapp">WhatsApp</a>
+
+    <!-- Botón para Instagram -->
+    <a href="https://www.instagram.com/marlon.telloo/?hl=es" target="_blank" class="button instagram">Instagram</a>
+  </div>
+</body>
+</html>
+
 
 ---
 
