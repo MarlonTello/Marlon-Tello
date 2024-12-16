@@ -59,10 +59,10 @@
   <img src="https://img.shields.io/badge/GitHub-lightblue?style=for-the-badge" alt="GitHub">
 </p>
 
-<h3>Hobby</h3>
+<h2 align="center">Hobby</h2>
 <p>I enjoy playing football and spending time with my family on walks. It helps me relax and stay active.</p>
 
-<h3>Idioma</h3>
+<h2 align="center">Idioma</h2>
 <p>Inglés: Básico (Comprensión limitada)</p>
 
 
