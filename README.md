@@ -29,6 +29,9 @@
 ---
 <h2 align="center">Mis Habilidades</h2>
 
+🌱 Actualmente estoy aprendiendo "Desarrollo WEB Full-Stack"
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
 <p>
   <strong>Lenguaje de Programación:</strong> 
   <img src="https://img.shields.io/badge/JavaScript%20%7C%20Java%20%7C%20Python-blue?style=for-the-badge" alt="Lenguajes de Programación">
@@ -59,8 +62,6 @@
   <img src="https://img.shields.io/badge/GitHub-lightblue?style=for-the-badge" alt="GitHub">
 </p>
 
-🌱 I’m currently learning **WEB Development Full-Stack**
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <!-- Lenguajes de Programación -->
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
