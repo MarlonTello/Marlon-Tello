@@ -106,4 +106,11 @@
 
 
 	
-🐍 Un viaje de contribución dinámico
+<h2 align="center">📊 Mis Estadísticas</h2>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" style="border: 2px solid #555; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);">
+</p>
+<p align="center" style="font-size: 16px; color: #555; margin-top: 15px;">
+  <strong>Contribuciones activas y resultados visibles. 🚀</strong>
+</p>
+
