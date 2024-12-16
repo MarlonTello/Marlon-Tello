@@ -82,7 +82,7 @@
     <img src="https://img.shields.io/badge/Facebook-Visitar-blue?style=for-the-badge&logo=facebook" alt="Facebook">
   </a>
   <!-- Botón para WhatsApp -->
-  <a href="https://wa.me/569932239061" target="_blank">
+  <a href="https://wa.me/56932239061" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Mensaje-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
   </a>
   <!-- Botón para Instagram -->
