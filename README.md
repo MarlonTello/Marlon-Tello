@@ -59,11 +59,16 @@
   <img src="https://img.shields.io/badge/GitHub-lightblue?style=for-the-badge" alt="GitHub">
 </p>
 
-<h2 align="center">Hobby</h2>
-<p>I enjoy playing football and spending time with my family on walks. It helps me relax and stay active.</p>
+<h2>Hobby</h2>
+<p>
+  <img src="https://img.icons8.com/emoji/48/000000/soccer-ball-emoji.png" alt="Fútbol" style="vertical-align: middle;"> Me encanta jugar al fútbol, 
+  <img src="https://img.icons8.com/color/48/000000/family.png" alt="Paseos Familiares" style="vertical-align: middle;"> y disfrutar de paseos con mi familia, lo que me permite relajarme y mantenerme activo.
+</p>
 
-<h2 align="center">Idioma</h2>
-<p>Inglés: Básico (Comprensión limitada)</p>
+<h2>Idioma</h2>
+<p>
+  <img src="https://img.icons8.com/color/48/000000/language.png" alt="Idioma" style="vertical-align: middle;"> Inglés: Básico (Comprensión limitada)
+</p>
 
 
 ---
