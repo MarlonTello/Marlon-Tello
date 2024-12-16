@@ -69,7 +69,7 @@
 </p>
 
 ---
-<h2 align="center">Quick Links</h2> 
+<h2 align="center">Conéctate conmigo</h2> 
 <p align="center"> 
   <!-- Botón para descargar el Currículum -->
   <a href="URL_DE_TU_CURRICULUM" target="_blank"> 
