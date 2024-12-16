@@ -92,10 +92,15 @@
 ---
 
 <h2 align="center">
-¡Gracias por visitarnos! 🌟</h2>
+  ¡Hasta pronto! 🌟
+</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif" alt="Thanks GIF">
+  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" alt="Goodbye GIF">
 </p>
+<p align="center">
+  <em>Gracias por tu visita. ¡Te esperamos nuevamente! 😊</em>
+</p>
+
 
 	
 ## 🐍 A Snake Eating my Contributions Graph
