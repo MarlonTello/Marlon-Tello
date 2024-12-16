@@ -27,7 +27,8 @@
 💾 Gestión y optimización de bases de datos SQL y MySQL , garantizando eficiencia y escalabilidad en aplicaciones grandes.
 
 <br>
-✨ Creación de estrategias digitales y planos de marketing , mejorando procesos y la experiencia del usuario con soluciones tecnológicas innovadoras.
+Tengo 21 años y estoy en mi último año de Ingeniería de Sistemas , buscando aplicar mi conocimiento y habilidades en un entorno desafiante donde pueda seguir creciendo profesionalmente y contribuir al éxito de la empresa.
+
 ---
 <h2 align="center">Mis Habilidades</h2>
 
