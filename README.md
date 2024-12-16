@@ -15,19 +15,11 @@
 
 <h2 align="center">Sobre Mí</h2>
 <p style="text-align: justify;">
-🌟 Desarrollar soluciones tecnológicas innovadoras para la creación de sistemas de gestión eficientes en diversas áreas, como la salud y la sostenibilidad, aplicando metodologías ágiles y tecnologías móviles para optimizar procesos y mejorar la experiencia del usuario.
-
-<br>
-📚 Liderar equipos multidisciplinarios aplicando metodologías ágiles como Scrum , destacando en gestión de proyectos , resolución de problemas complejos y fomentando un ambiente de colaboración para alcanzar los objetivos establecidos de manera eficiente.
-
-<br>
-⚙️ Desarrollar con lenguajes como Python y JavaScript y frameworks como React , aplicando análisis funcional , estimación de recursos y desarrollo de software en proyectos de alta complejidad, asegurando la calidad del código y su correcta implementación.
-
-<br>
-💾 Gestionar bases de datos SQL y MySQL , optimizando su rendimiento mediante el diseño de estructuras eficientes y la implementación de buenas prácticas para garantizar la escalabilidad y disponibilidad de la información en aplicaciones de gran tamaño.
-
-<br>
-✨ Crear estrategias digitales innovadoras y planos de marketing , con un enfoque en la optimización de procesos , automatización y en la mejora de la experiencia del usuario , a través de soluciones tecnológicas que generan valor agregado y eficiencia operativa.
+🌟 Desarrollo de soluciones tecnológicas para optimizar sistemas de gestión en áreas como salud y sostenibilidad, aplicando metodologías ágiles y tecnologías móviles.
+📚 Liderazgo en equipos ágiles , gestionando proyectos y fomentando la colaboración para resolver problemas y alcanzar objetivos.
+⚙️ Desarrollo con Python, JavaScript y React , asegurando calidad de código mediante análisis funcional y estimación de recursos en proyectos complejos.
+💾 Gestión y optimización de bases de datos SQL y MySQL , garantizando eficiencia y escalabilidad en aplicaciones grandes.
+✨ Creación de estrategias digitales y planos de marketing , mejorando procesos y la experiencia del usuario con soluciones tecnológicas innovadoras.
 ---
 <h2 align="center">Mis Habilidades</h2>
 
