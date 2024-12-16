@@ -77,7 +77,7 @@
   </a> 
   <!-- Botón para Facebook --> 
   <a href="https://www.facebook.com/profile.php?id=100013582839452" target="_blank"> 
-    <img src="https://img.shields.io/badge/Facebook-Visitar-blue?style=for-the-badge&logo=facebook" alt="Facebook"> 
+    <img src="https://img.shields.io/badge/Facebook-Visitar-lightblue?style=for-the-badge&logo=facebook" alt="Facebook"> 
   </a> 
   <!-- Botón para WhatsApp --> 
   <a href="https://wa.me/56932239061" target="_blank"> 
@@ -85,7 +85,7 @@
   </a> 
   <!-- Botón para Instagram -->
   <a href="https://www.instagram.com/marlon.telloo/?hl=es" target="_blank"> 
-    <img src="https://img.shields.io/badge/Instagram-Visitar-pink?style=for-the-badge&logo=instagram" alt="Instagram"> 
+    <img src="https://img.shields.io/badge/Instagram-Visitar-orange?style=for-the-badge&logo=instagram" alt="Instagram"> 
   </a> 
 </p
 
