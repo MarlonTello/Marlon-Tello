@@ -123,7 +123,7 @@ Soy estudiante de último año de Ingeniería de Sistemas 👨‍💻, con 21 a�
 <p align="center"> 
   <!-- Botón para descargar el Currículum -->
   <a href="URL_DE_TU_CURRICULUM" target="_blank"> 
-    <img src="https://img.shields.io/badge/Currículum-Descargar-blue?style=for-the-badge&logo=readme" alt="Currículum"> 
+    <img src="file:///C:/Users/MARLON/Downloads/CV-Marlon-Tello.pdf" alt="Currículum"> 
   </a> 
   <!-- Botón para Facebook --> 
   <a href="https://www.facebook.com/profile.php?id=100013582839452" target="_blank"> 
