@@ -91,7 +91,8 @@
 
 ---
 
-<h2 align="center">Thanks for Visiting! 🌟</h2>
+<h2 align="center">
+¡Gracias por visitarnos! 🌟</h2>
 <p align="center">
   <img src="https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif" alt="Thanks GIF">
 </p>
