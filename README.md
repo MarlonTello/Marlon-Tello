@@ -16,9 +16,17 @@
 <h2 align="center">Sobre Mí</h2>
 <p style="text-align: justify;">
 🌟 Desarrollo de soluciones tecnológicas para optimizar sistemas de gestión en áreas como salud y sostenibilidad, aplicando metodologías ágiles y tecnologías móviles.
+
+<br>
 📚 Liderazgo en equipos ágiles , gestionando proyectos y fomentando la colaboración para resolver problemas y alcanzar objetivos.
+
+<br>
 ⚙️ Desarrollo con Python, JavaScript y React , asegurando calidad de código mediante análisis funcional y estimación de recursos en proyectos complejos.
+
+<br>
 💾 Gestión y optimización de bases de datos SQL y MySQL , garantizando eficiencia y escalabilidad en aplicaciones grandes.
+
+<br>
 ✨ Creación de estrategias digitales y planos de marketing , mejorando procesos y la experiencia del usuario con soluciones tecnológicas innovadoras.
 ---
 <h2 align="center">Mis Habilidades</h2>
