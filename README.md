@@ -92,13 +92,16 @@
 ---
 
 <h2 align="center">
-  ¡Hasta pronto! 🌟
+  ¡Gracias por tu interés! 🚀
 </h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" alt="Goodbye GIF">
+  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" alt="Motivational Goodbye GIF">
+</p>
+<p align="center" style="font-size: 18px; color: #555;">
+  <strong>¡Gracias por visitarme!</strong> Estoy comprometido a aportar creatividad, pasión y soluciones innovadoras a cada proyecto. 💡 Si buscas un profesional con disciplina, motivación y ganas de crecer, ¡hablemos! 💼
 </p>
 <p align="center">
-  <em>Gracias por tu visita. ¡Te esperamos nuevamente! 😊</em>
+  <em>Espero que este sea el comienzo de una gran colaboración. 🌟 ¡Hasta pronto!</em>
 </p>
 
 
