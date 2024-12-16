@@ -73,13 +73,24 @@
 
 <h2 align="center">Quick Links</h2>
 <p align="center">
-  <a href="http://lnkiy.in/Ahmed_Hossam_Resume">
-    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=readme" alt="Resume">
+  <!-- Botón para descargar el Currículum -->
+  <a href="URL_DE_TU_CURRICULUM" target="_blank">
+    <img src="https://img.shields.io/badge/Currículum-Descargar-blue?style=for-the-badge&logo=readme" alt="Currículum">
   </a>
-  <a href="https://cutt.ly/Ahmed_Hossam_Website">
-    <img src="https://img.shields.io/badge/My%20Website-Visit-green?style=for-the-badge&logo=world" alt="Website">
+  <!-- Botón para Facebook -->
+  <a href="https://www.facebook.com/profile.php?id=100013582839452" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Visitar-blue?style=for-the-badge&logo=facebook" alt="Facebook">
+  </a>
+  <!-- Botón para WhatsApp -->
+  <a href="https://wa.me/569932239061" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Mensaje-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
+  </a>
+  <!-- Botón para Instagram -->
+  <a href="https://www.instagram.com/marlon.telloo/?hl=es" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Visitar-pink?style=for-the-badge&logo=instagram" alt="Instagram">
   </a>
 </p>
+
 
 ---
 
